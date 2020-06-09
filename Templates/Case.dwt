@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Metals in Medicine and the Environment</title>
+<!-- TemplateEndEditable -->
+<link href="../metalstyle.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}
+-->
+</style></head>
+
+<body>
+<table width="760" border="0">
+  <tr>
+    <td class = "home">&nbsp;</td>
+    <td class = "home"><a href="../index.html">METALS IN MEDICINE AND THE ENVIRONMENT</a></td>
+  </tr>
+  <tr>
+    <td width="188" id ="navbar">Metals</div></td>
+    <td width="562" id = "navbar"><!-- TemplateBeginEditable name="title" -->TITLE<!-- TemplateEndEditable --></td>
+  </tr>
+  
+  <tr>
+    <td width="188" height="150" id ="cases"><!-- #BeginLibraryItem "/Library/metals.lbi" --><ul>
+      <li><a href="../Cases/rasnake1.html">Cadmium</a></li>
+  <li><a href="../Cases/dudgeon1.html">Iron</a></li>
+  <li><a href="../Cases/sheehan1.html">Lead</a></li>
+  <li><a href="../Cases/corson1.html">Manganese</a></li>
+  <li><a href="../Cases/east1.html">Molybdenum</a></li>
+  <li><a href="../Cases/reddaway1.html">Nickel</a></li>
+  <li><a href="../Cases/prescott1.html">Silver</a></li>
+  <li><a href="../Cases/stclair1.html">Tin</a></li>
+    </ul><!-- #EndLibraryItem --></td>
+    <td width="562" height="150" rowspan="3" id="content"><!-- TemplateBeginEditable name="content" -->
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td height="25" id ="navbar">Topics</td>
+  </tr>
+  <tr valign="top">
+    <td width="188" id ="cases"><!-- #BeginLibraryItem "/Library/topics.lbi" -->
+<ul>
+      <li><a href="../Cases/prescott1.html">Antibiotics</a></li>
+  <li><a href="../Cases/stclair1.html">Antifouling Paint</a></li>
+  <li><a href="../Cases/kleinfeld1.html">Aruyvedic Medicine</a></li>
+  <li><a href="../Cases/sheehan1.html">Chocolate</a></li>
+  <li><a href="../Cases/huffman1.html">Cremation</a></li>
+  <li><a href="../Cases/reddaway1.html">Hybrid Cars</a></li>
+  <li><a href="../Cases/rasnake1.html">Industrial Pollution</a></li>
+  <li><a href="../Cases/corson1.html">Neurotoxicity</a></li>
+  <li><a href="../Cases/rasnake1.html">Ouch Ouch Disease</a></li>
+  <li><a href="../Cases/dudgeon1.html">Pregnancy</a></li>
+</ul>    
+<!-- #EndLibraryItem --></td>
+  </tr>
+  
+<tr>
+<td colspan="4" id="footer"><!--#include file="../footer.html"--></td>
+</tr></table>
+</body>
+</html>
